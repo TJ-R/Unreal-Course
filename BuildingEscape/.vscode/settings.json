@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+		"C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/.vscode": true,
+		"C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Content": true,
+		"C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Intermediate": true,
+		"C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved": true
+	}
+}

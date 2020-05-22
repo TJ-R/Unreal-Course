@@ -1,0 +1,3 @@
+C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscapeEditor.Target.cs

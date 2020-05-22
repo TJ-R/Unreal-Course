@@ -1,0 +1,5 @@
+C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\Definitions.BuildingEscape.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscape/OpenDoor.h
+c:\users\thomas\repositories\c++ repos\unreal-course\buildingescape\intermediate\build\win64\ue4editor\inc\buildingescape\OpenDoor.generated.h
