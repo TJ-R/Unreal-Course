@@ -1,0 +1,2363 @@
+﻿Log file open, 05/26/20 13:49:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BuildingEscape
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.788883
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:557][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.05.26-17.49.33:557][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.05.26-17.49.33:558][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:558][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:562][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.26-17.49.33:562][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.26-17.49.33:563][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.26-17.49.33:563][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-17.49.33:563][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.05.26-17.49.33:570][  0]LogHAL: Display: Platform has ~ 16 GB [17092014080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.05.26-17.49.33:571][  0]LogInit: Going up to parent DeviceProfile []
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Scalability.ini]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.05.26-17.49.33:571][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.05.26-17.49.33:572][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.05.26-17.49.33:572][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.05.26-17.49.33:572][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Config/Windows/Engine.ini]
+[2020.05.26-17.49.33:572][  0]LogInit: Computer: DESKTOP-K0P3H3F
+[2020.05.26-17.49.33:572][  0]LogInit: User: Thomas
+[2020.05.26-17.49.33:572][  0]LogInit: CPU Page size=4096, Cores=12
+[2020.05.26-17.49.33:572][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.05.26-17.49.33:572][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.05.26-17.49.33:572][  0]LogMemory: Platform Memory Stats for Windows
+[2020.05.26-17.49.33:572][  0]LogMemory: Process Physical Memory: 100.23 MB used, 100.23 MB peak
+[2020.05.26-17.49.33:572][  0]LogMemory: Process Virtual Memory: 92.42 MB used, 92.42 MB peak
+[2020.05.26-17.49.33:572][  0]LogMemory: Physical Memory: 6810.17 MB used,  9490.04 MB free, 16300.21 MB total
+[2020.05.26-17.49.33:572][  0]LogMemory: Virtual Memory: 4712.52 MB used,  134213016.00 MB free, 134217728.00 MB total
+[2020.05.26-17.49.33:803][  0]LogInit: Using OS detected language (en-US).
+[2020.05.26-17.49.33:803][  0]LogInit: Using OS detected locale (en-US).
+[2020.05.26-17.49.33:804][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.05.26-17.49.33:922][  0]LogInit: Setting process to per monitor DPI aware
+[2020.05.26-17.49.33:963][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.05.26-17.49.33:963][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.05.26-17.49.34:085][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.26-17.49.34:085][  0]LogD3D11RHI: D3D11 adapters:
+[2020.05.26-17.49.34:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2020.05.26-17.49.34:141][  0]LogD3D11RHI:       5980/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.05.26-17.49.34:143][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.05.26-17.49.34:143][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.05.26-17.49.34:143][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.05.26-17.49.34:152][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.05.26-17.49.34:152][  0]LogD3D11RHI:     GPU DeviceId: 0x1f08 (for the marketing name, search the web for "GPU Device Id")
+[2020.05.26-17.49.34:152][  0]LogWindows: EnumDisplayDevices:
+[2020.05.26-17.49.34:153][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2020.05.26-17.49.34:153][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:1)
+[2020.05.26-17.49.34:153][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.26-17.49.34:153][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2020.05.26-17.49.34:154][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.05.26-17.49.34:154][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2020.05.26-17.49.34:154][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.05.26-17.49.34:154][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.05.26-17.49.34:154][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2020.05.26-17.49.34:194][  0]LogD3D11RHI: Async texture creation enabled
+[2020.05.26-17.49.34:199][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.26-17.49.34:199][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.26-17.49.34:199][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.05.26-17.49.34:208][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.05.26-17.49.34:547][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.05.26-17.49.34:560][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.05.26-17.49.34:572][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.05.26-17.49.34:586][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.05.26-17.49.34:599][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.05.26-17.49.34:612][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.05.26-17.49.34:625][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.05.26-17.49.34:639][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.05.26-17.49.34:645][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.05.26-17.49.34:720][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.05.26-17.49.34:722][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.05.26-17.49.34:769][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.05.26-17.49.34:769][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.05.26-17.49.34:791][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.05.26-17.49.34:791][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.05.26-17.49.34:803][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.05.26-17.49.34:815][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.05.26-17.49.34:826][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.05.26-17.49.34:838][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.05.26-17.49.34:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.05.26-17.49.34:878][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.05.26-17.49.34:878][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.05.26-17.49.34:886][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.05.26-17.49.34:931][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Intermediate/Shaders/WorkingDirectory/27624/).
+[2020.05.26-17.49.34:931][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/59D97B904FEF8891AC17D49B607D0FE3/'.
+[2020.05.26-17.49.34:933][  0]LogXGEController: Cleaning working directory: C:/Users/Thomas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.26-17.49.34:933][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.05.26-17.49.34:933][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.05.26-17.49.34:933][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.05.26-17.49.35:367][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thomas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.26-17.49.35:401][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.05.26-17.49.35:412][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.05.26-17.49.35:412][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.05.26-17.49.35:412][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.05.26-17.49.35:424][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.05.26-17.49.35:424][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.05.26-17.49.35:424][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.05.26-17.49.35:442][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.05.26-17.49.35:443][  0]LogSlate: Using FreeType 2.6.0
+[2020.05.26-17.49.35:444][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.05.26-17.49.35:512][  0]LogAssetRegistry: FAssetRegistry took 0.0319 seconds to start up
+[2020.05.26-17.49.35:792][  0]LogInit: Selected Device Profile: [Windows]
+[2020.05.26-17.49.35:897][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.05.26-17.49.35:897][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.05.26-17.49.35:897][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.05.26-17.49.35:897][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.05.26-17.49.35:897][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.05.26-17.49.35:905][  0]LogNetVersion: BuildingEscape 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1788021529)
+[2020.05.26-17.49.36:186][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.023731 seconds
+[2020.05.26-17.49.36:191][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.05.26-17.49.36:192][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.05.26-17.49.36:192][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.05.26-17.49.36:809][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.05.26-17.49.36:824][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.05.26-17.49.37:950][  0]SourceControl: Source control is disabled
+[2020.05.26-17.49.37:950][  0]SourceControl: Source control is disabled
+[2020.05.26-17.49.37:952][  0]SourceControl: Source control is disabled
+[2020.05.26-17.49.37:952][  0]SourceControl: Source control is disabled
+[2020.05.26-17.49.38:019][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.05.26-17.49.38:688][  0]LogOcInput: OculusInput pre-init called
+[2020.05.26-17.49.39:196][  0]LogEngine: Initializing Engine...
+[2020.05.26-17.49.39:196][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.05.26-17.49.39:197][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.05.26-17.49.39:343][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.05.26-17.49.39:356][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.05.26-17.49.39:443][  0]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.26-17.49.39:513][  0]LogInit: FAudioDevice initialized.
+[2020.05.26-17.49.39:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.05.26-17.49.39:556][  0]LogDerivedDataCache: Saved boot cache 0.04s 71MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.05.26-17.49.39:559][  0]LogInit: Texture streaming: Enabled
+[2020.05.26-17.49.39:579][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.05.26-17.49.39:579][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={32456BC6-4F15-2510-3163-3F8E00BFB0D4}
+[2020.05.26-17.49.39:599][  0]LogInit: Transaction tracking system initialized
+[2020.05.26-17.49.39:620][  0]BlueprintLog: New page: Editor Load
+[2020.05.26-17.49.39:693][  0]LocalizationService: Localization service is disabled
+[2020.05.26-17.49.39:934][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Content/' took 0.01s
+[2020.05.26-17.49.39:934][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.05.26-17.49.39:934][  0]LogCook: Display: Mobile HDR setting 1
+[2020.05.26-17.49.40:080][  0]SourceControl: Source control is disabled
+[2020.05.26-17.49.40:080][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Content/Levels/BuildingEscape.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.26-17.49.40:080][  0]LightingResults: New page: Lighting Build
+[2020.05.26-17.49.40:083][  0]MapCheck: New page: Map Check
+[2020.05.26-17.49.40:083][  0]LightingResults: New page: Lighting Build
+[2020.05.26-17.49.40:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.05.26-17.49.40:206][  0]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.05.26-17.49.40:210][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.26-17.49.40:242][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.26-17.49.40:242][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.26-17.49.40:242][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.15ms to complete.
+[2020.05.26-17.49.40:242][  0]LogFileHelpers: Loading map 'BuildingEscape' took 0.162
+[2020.05.26-17.49.40:341][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.49.40:347][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.49.40:353][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.49.40:358][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.49.40:364][  0]LogCollectionManager: Loaded 0 collections in 0.001251 seconds
+[2020.05.26-17.49.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Saved/Collections/' took 0.01s
+[2020.05.26-17.49.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Content/Developers/Thomas/Collections/' took 0.01s
+[2020.05.26-17.49.40:402][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/Content/Collections/' took 0.01s
+[2020.05.26-17.49.40:402][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.05.26-17.49.40:410][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2736 classes and 661 folders.
+[2020.05.26-17.49.40:416][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-17.49.40:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:417][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:419][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:420][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:421][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:422][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.05.26-17.49.40:443][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-17.49.40:450][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.05.26-17.49.40:465][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.05.26-17.49.40:468][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.05.26-17.49.40:470][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.05.26-17.49.40:516][  0]LogRenderer: Reallocating scene render targets to support 1012x640 Format 10 NumSamples 1 (Frame:1).
+[2020.05.26-17.49.40:664][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.05.26-17.49.40:664][  0]LogLoad: (Engine Initialization) Total time: 9.30 seconds
+[2020.05.26-17.49.40:664][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.05.26-17.49.40:690][  0]LogAssetRegistry: Asset discovery search completed in 5.2013 seconds
+[2020.05.26-17.49.40:692][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.05.26-17.49.40:692][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000035 seconds (updated 0 objects)
+[2020.05.26-17.49.40:693][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.05.26-17.49.40:721][  0]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-17.49.42:186][171]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.26-17.49.42:280][182]Candidate modules for hot reload:
+[2020.05.26-17.49.42:280][182]  BuildingEscape
+[2020.05.26-17.49.42:280][182]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,8651 Win64 Development -TargetType=Editor -Project="C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/BuildingEscape.uproject" "C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.05.26-17.49.42:283][182]Warning: Starting HotReload took  0.0s.
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: New page: Compilation - May 26, 2020, 9:49:44 AM
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course).
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Creating makefile for BuildingEscapeEditor (ini files are newer than makefile)
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Error: C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscape\Grabber.cpp(1) : error: Expected Grabber.h to be first header included.
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Error: C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Source\BuildingEscape\OpenDoor.cpp(1) : error: Expected OpenDoor.h to be first header included.
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.26-17.49.44:630][456]CompilerResultsLog: Building 3 actions with 24 processes...
+[2020.05.26-17.49.44:630][456]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-8651.lib
+[2020.05.26-17.49.44:630][456]CompilerResultsLog:      Creating library C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8651.lib and object C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8651.exp
+[2020.05.26-17.49.44:630][456]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-8651.dll
+[2020.05.26-17.49.44:631][456]CompilerResultsLog:      Creating library C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8651.suppressed.lib and object C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-8651.suppressed.exp
+[2020.05.26-17.49.44:631][456]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.05.26-17.49.44:631][456]CompilerResultsLog: Total time in Parallel executor: 0.94 seconds
+[2020.05.26-17.49.44:631][456]CompilerResultsLog: Total execution time: 2.27 seconds
+[2020.05.26-17.49.44:631][456]LogMainFrame: MainFrame: Module compiling took 2.353 seconds
+[2020.05.26-17.49.44:659][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.05.26-17.49.45:278][456]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.05.26-17.49.45:280][456]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.05.26-17.49.45:575][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.05.26-17.49.45:586][456]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2737 classes and 663 folders.
+[2020.05.26-17.49.45:586][456]Display: HotReload took  3.3s.
+[2020.05.26-17.49.46:033][509]Candidate modules for hot reload:
+[2020.05.26-17.49.46:033][509]  BuildingEscape
+[2020.05.26-17.49.46:033][509]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=BuildingEscape,9591 Win64 Development -TargetType=Editor -Project="C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/BuildingEscape.uproject" "C:/Users/Thomas/Repositories/C++ Repos/Unreal-Course/BuildingEscape/BuildingEscape.uproject"  -IgnoreJunk]
+[2020.05.26-17.49.46:035][509]Warning: Starting HotReload took  0.0s.
+[2020.05.26-17.49.47:744][705]CompilerResultsLog: New page: Compilation - May 26, 2020, 9:49:47 AM
+[2020.05.26-17.49.47:744][705]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course).
+[2020.05.26-17.49.47:744][705]CompilerResultsLog: Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.05.26-17.49.47:744][705]CompilerResultsLog: Building 3 actions with 24 processes...
+[2020.05.26-17.49.47:744][705]CompilerResultsLog:   [1/3] UE4Editor-BuildingEscape-9591.lib
+[2020.05.26-17.49.47:745][705]CompilerResultsLog:      Creating library C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9591.lib and object C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9591.exp
+[2020.05.26-17.49.47:745][705]CompilerResultsLog:   [2/3] UE4Editor-BuildingEscape-9591.dll
+[2020.05.26-17.49.47:745][705]CompilerResultsLog:      Creating library C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9591.suppressed.lib and object C:\Users\Thomas\Repositories\C++ Repos\Unreal-Course\BuildingEscape\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape\UE4Editor-BuildingEscape-9591.suppressed.exp
+[2020.05.26-17.49.47:745][705]CompilerResultsLog:   [3/3] BuildingEscapeEditor.target
+[2020.05.26-17.49.47:745][705]CompilerResultsLog: Total time in Parallel executor: 0.94 seconds
+[2020.05.26-17.49.47:745][705]CompilerResultsLog: Total execution time: 1.64 seconds
+[2020.05.26-17.49.47:745][705]LogMainFrame: MainFrame: Module compiling took 1.714 seconds
+[2020.05.26-17.49.47:774][705]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.05.26-17.49.48:332][705]LogContentBrowser: Native class hierarchy updated for 'BuildingEscape' in 0.0004 seconds. Added 4 classes and 2 folders.
+[2020.05.26-17.49.48:334][705]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2020.05.26-17.49.48:378][705]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.05.26-17.49.48:389][705]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 2737 classes and 663 folders.
+[2020.05.26-17.49.48:389][705]Display: HotReload took  2.4s.
+[2020.05.26-17.49.49:356][821]LogTemp: Repeating last play command: Selected Viewport
+[2020.05.26-17.49.49:365][821]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.05.26-17.49.49:365][821]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.26-17.49.49:365][821]PIE: New page: PIE session: BuildingEscape (May 26, 2020, 9:49:49 AM)
+[2020.05.26-17.49.49:377][821]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_BuildingEscape
+[2020.05.26-17.49.49:382][821]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005319s)
+[2020.05.26-17.49.49:383][821]LogAIModule: Creating AISystem for world BuildingEscape
+[2020.05.26-17.49.49:383][821]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2020.05.26-17.49.49:383][821]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/BuildingEscape.BuildingEscape to /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape (0.006125s)
+[2020.05.26-17.49.49:411][821]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.05.26-17.49.49:453][821]LogInit: XAudio2 using 'Speakers (Yeti Stereo Microphone)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.05.26-17.49.49:468][821]LogInit: FAudioDevice initialized.
+[2020.05.26-17.49.49:513][821]LogLoad: Game class is 'MyBuildingEscapeGameModeBase_BP_C'
+[2020.05.26-17.49.49:514][821]LogWorld: Bringing World /Game/Levels/UEDPIE_0_BuildingEscape.BuildingEscape up for play (max tick rate 0) at 2020.05.26-13.49.49
+[2020.05.26-17.49.49:515][821]LogWorld: Bringing up level for play took: 0.000926
+[2020.05.26-17.49.49:544][821]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.05.26-17.49.49:545][821]LogTemp: Warning: Cube_2 position in the world is: X=-180.000 Y=-185.000 Z=70.000
+[2020.05.26-17.49.49:545][821]LogTemp: Error: Sphere_5 has OpenDoor Component but no Pressure Plate set!
+[2020.05.26-17.49.49:545][821]LogTemp: Warning: Sphere_5 position in the world is: X=-190.000 Y=140.000 Z=80.000
+[2020.05.26-17.49.49:545][821]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_BuildingEscape -0.256
+[2020.05.26-17.49.49:546][821]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.05.26-17.49.52:636][187]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.05.26-17.49.53:497][290]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.05.26-17.50.00:385][995]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:393][996]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:401][997]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:410][998]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:418][999]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:426][  0]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:435][  1]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:443][  2]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:451][  3]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:460][  4]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:468][  5]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:476][  6]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:485][  7]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:493][  8]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:501][  9]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:510][ 10]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:518][ 11]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:526][ 12]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:535][ 13]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:543][ 14]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:551][ 15]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:560][ 16]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:568][ 17]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:576][ 18]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:585][ 19]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:593][ 20]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:601][ 21]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:609][ 22]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:618][ 23]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:626][ 24]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:634][ 25]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:643][ 26]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:651][ 27]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:659][ 28]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:668][ 29]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:676][ 30]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:684][ 31]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:693][ 32]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:701][ 33]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:709][ 34]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:718][ 35]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:726][ 36]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:734][ 37]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:743][ 38]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:751][ 39]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:760][ 40]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:768][ 41]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:776][ 42]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:785][ 43]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:793][ 44]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:801][ 45]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:809][ 46]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:818][ 47]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:826][ 48]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:835][ 49]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:843][ 50]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:851][ 51]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:859][ 52]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:868][ 53]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:876][ 54]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:884][ 55]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:893][ 56]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:901][ 57]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:909][ 58]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:918][ 59]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:926][ 60]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:934][ 61]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:943][ 62]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:951][ 63]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:959][ 64]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:968][ 65]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:976][ 66]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:984][ 67]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.00:993][ 68]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:001][ 69]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:009][ 70]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:018][ 71]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:026][ 72]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:034][ 73]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:043][ 74]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:051][ 75]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:059][ 76]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:068][ 77]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:076][ 78]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:084][ 79]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:093][ 80]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:101][ 81]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:109][ 82]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:118][ 83]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:126][ 84]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:134][ 85]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:143][ 86]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:151][ 87]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:159][ 88]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:168][ 89]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:176][ 90]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:184][ 91]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:193][ 92]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:201][ 93]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:209][ 94]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:218][ 95]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:226][ 96]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:234][ 97]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:243][ 98]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:251][ 99]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:260][100]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:268][101]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:276][102]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:284][103]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:293][104]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:301][105]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:309][106]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:318][107]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:326][108]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:334][109]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:343][110]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:351][111]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:359][112]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:368][113]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:376][114]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:384][115]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:393][116]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:401][117]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:409][118]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:418][119]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:426][120]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:434][121]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:443][122]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:451][123]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:460][124]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:468][125]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:476][126]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:485][127]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:493][128]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:501][129]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.01:510][130]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.05:985][667]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.05:993][668]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:001][669]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:010][670]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:018][671]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:026][672]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:035][673]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:043][674]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:051][675]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:060][676]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:068][677]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:076][678]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:085][679]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:093][680]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:101][681]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:110][682]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:118][683]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:126][684]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:135][685]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:143][686]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:151][687]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:160][688]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:168][689]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:176][690]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:185][691]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:193][692]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:201][693]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:210][694]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:218][695]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:226][696]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:235][697]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:243][698]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:251][699]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:260][700]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:268][701]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:276][702]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:285][703]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:293][704]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:301][705]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:310][706]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:318][707]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:326][708]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:335][709]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:343][710]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:351][711]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:360][712]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:368][713]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:376][714]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:385][715]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:393][716]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:401][717]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:410][718]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:418][719]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:426][720]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:435][721]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:443][722]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:451][723]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:460][724]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:468][725]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.06:476][726]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.09:457][ 71]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:466][ 72]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:474][ 73]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:482][ 74]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:491][ 75]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:499][ 76]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:507][ 77]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:516][ 78]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:524][ 79]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:532][ 80]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:541][ 81]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:549][ 82]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:557][ 83]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:566][ 84]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:574][ 85]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:582][ 86]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:591][ 87]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:599][ 88]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:607][ 89]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:615][ 90]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:624][ 91]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:632][ 92]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:640][ 93]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:649][ 94]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:657][ 95]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:665][ 96]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:674][ 97]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:682][ 98]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:690][ 99]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:699][100]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:707][101]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:715][102]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:724][103]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:732][104]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:741][105]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:749][106]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:757][107]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:766][108]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:774][109]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:782][110]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:791][111]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:799][112]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:807][113]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:816][114]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:824][115]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:832][116]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:841][117]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:849][118]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:857][119]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:866][120]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:874][121]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:882][122]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.09:891][123]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.10:899][244]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:907][245]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:915][246]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:924][247]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:932][248]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:940][249]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:949][250]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:957][251]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:966][252]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:974][253]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:982][254]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:991][255]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.10:999][256]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:007][257]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:016][258]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:024][259]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:032][260]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:041][261]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:049][262]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:057][263]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:066][264]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:074][265]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:082][266]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:091][267]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:099][268]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:107][269]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:116][270]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:124][271]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:132][272]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:141][273]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:149][274]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:157][275]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:166][276]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:174][277]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:182][278]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:191][279]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:199][280]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:207][281]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:216][282]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:224][283]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:232][284]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:241][285]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:249][286]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:258][287]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:266][288]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:274][289]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:283][290]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:291][291]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:299][292]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:307][293]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:316][294]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:324][295]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:333][296]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:341][297]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:349][298]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:357][299]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:874][361]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:882][362]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:891][363]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:899][364]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:907][365]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:916][366]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:924][367]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:932][368]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:941][369]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:949][370]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:957][371]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:966][372]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:974][373]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:982][374]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:991][375]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.11:999][376]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:007][377]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:016][378]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:024][379]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:032][380]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:040][381]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:048][382]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:057][383]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:065][384]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:073][385]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:082][386]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:090][387]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:098][388]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:107][389]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:115][390]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:123][391]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:132][392]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:140][393]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:148][394]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:157][395]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.12:165][396]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.13:690][579]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:698][580]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:707][581]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:715][582]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:723][583]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:732][584]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:740][585]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:748][586]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:757][587]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:765][588]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:774][589]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:782][590]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:790][591]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:798][592]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:807][593]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:815][594]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:823][595]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:832][596]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:840][597]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:848][598]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:857][599]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:865][600]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:873][601]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:882][602]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:890][603]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:898][604]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:907][605]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:915][606]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:923][607]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:932][608]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:940][609]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:948][610]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:957][611]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:965][612]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:973][613]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:982][614]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:990][615]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.13:998][616]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:007][617]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:015][618]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:023][619]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:032][620]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:040][621]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:048][622]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:057][623]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:065][624]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:073][625]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:082][626]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:090][627]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:099][628]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:107][629]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:115][630]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.14:124][631]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.15:266][768]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:274][769]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:282][770]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:291][771]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:299][772]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:307][773]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:316][774]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:324][775]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:332][776]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:341][777]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:349][778]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:358][779]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:366][780]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:374][781]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:383][782]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:390][783]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:399][784]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:407][785]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:415][786]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:423][787]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:432][788]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:440][789]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:448][790]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:457][791]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:465][792]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:473][793]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:482][794]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:490][795]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:498][796]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:507][797]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:515][798]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:523][799]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:532][800]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:541][801]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:549][802]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:558][803]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:566][804]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:574][805]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:583][806]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:591][807]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:599][808]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:608][809]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:616][810]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:624][811]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:633][812]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:641][813]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:649][814]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:658][815]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:666][816]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:674][817]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:683][818]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:691][819]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:699][820]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:708][821]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:716][822]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:724][823]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:733][824]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:741][825]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:749][826]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:758][827]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:766][828]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:774][829]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:783][830]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:791][831]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:799][832]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:808][833]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:816][834]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:824][835]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:833][836]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:841][837]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:849][838]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:858][839]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:866][840]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:874][841]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:883][842]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:891][843]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:899][844]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:908][845]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:916][846]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:925][847]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:933][848]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:941][849]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:950][850]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:958][851]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:966][852]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.15:975][853]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.16:699][940]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:707][941]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:716][942]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:724][943]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:733][944]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:741][945]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:749][946]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:758][947]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:974][973]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:982][974]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:990][975]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.16:999][976]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:007][977]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:015][978]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:024][979]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:032][980]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:040][981]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:049][982]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:057][983]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:065][984]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:074][985]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:082][986]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:090][987]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:099][988]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:107][989]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:116][990]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:124][991]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:132][992]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:141][993]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:149][994]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:157][995]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:166][996]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:174][997]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:182][998]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:191][999]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:199][  0]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:207][  1]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:216][  2]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:224][  3]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:232][  4]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:241][  5]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:249][  6]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:257][  7]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:266][  8]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:274][  9]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:283][ 10]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:291][ 11]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:299][ 12]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:307][ 13]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:316][ 14]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:324][ 15]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:333][ 16]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:341][ 17]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:349][ 18]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:358][ 19]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:366][ 20]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:374][ 21]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:383][ 22]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:391][ 23]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:399][ 24]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:407][ 25]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:416][ 26]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:424][ 27]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:433][ 28]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:441][ 29]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:449][ 30]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.17:457][ 31]LogTemp: Warning: Hitting Cylinder_5
+[2020.05.26-17.50.19:083][226]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:091][227]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:099][228]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:107][229]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:116][230]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:124][231]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:132][232]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:141][233]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:149][234]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:157][235]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:166][236]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:174][237]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:182][238]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:191][239]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:199][240]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:207][241]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:216][242]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:224][243]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:232][244]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:241][245]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:249][246]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:257][247]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:266][248]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:274][249]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:282][250]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:291][251]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:299][252]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:307][253]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:315][254]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:324][255]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:332][256]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:340][257]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:349][258]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:357][259]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:365][260]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:374][261]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:382][262]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:391][263]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:399][264]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:407][265]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:416][266]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:424][267]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:649][294]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:657][295]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:666][296]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:674][297]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:682][298]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:690][299]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:699][300]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:707][301]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:715][302]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:724][303]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:732][304]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:740][305]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:749][306]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:757][307]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:765][308]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:774][309]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:782][310]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:791][311]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:799][312]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:807][313]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:816][314]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.19:824][315]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:066][344]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:074][345]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:083][346]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:091][347]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:099][348]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:108][349]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:233][364]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:241][365]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:249][366]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:258][367]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:266][368]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:274][369]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:283][370]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:291][371]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:299][372]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:308][373]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:316][374]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:324][375]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:332][376]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:341][377]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:349][378]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:357][379]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:366][380]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:374][381]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:382][382]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:391][383]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:399][384]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:407][385]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:416][386]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:424][387]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:432][388]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:441][389]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:449][390]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:457][391]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:466][392]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:474][393]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:482][394]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:491][395]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:499][396]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:507][397]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:516][398]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:524][399]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:532][400]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:541][401]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:549][402]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:557][403]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:566][404]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:574][405]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:582][406]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:591][407]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:599][408]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:607][409]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:616][410]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:624][411]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:632][412]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:641][413]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:649][414]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:657][415]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:666][416]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:674][417]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:682][418]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:691][419]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:699][420]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:707][421]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:716][422]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:724][423]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:732][424]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:741][425]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:749][426]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:757][427]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:766][428]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:774][429]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:782][430]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:791][431]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:799][432]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:807][433]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:816][434]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:824][435]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:832][436]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:841][437]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:849][438]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:857][439]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:866][440]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:874][441]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:882][442]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:891][443]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:899][444]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:907][445]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:916][446]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:924][447]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:932][448]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:941][449]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:949][450]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:957][451]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:965][452]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:974][453]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:982][454]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:991][455]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.20:999][456]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:007][457]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:015][458]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:024][459]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:032][460]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:041][461]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:049][462]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:057][463]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:065][464]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:074][465]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:082][466]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:090][467]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:099][468]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:107][469]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:115][470]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:124][471]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:132][472]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:140][473]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:149][474]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:157][475]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:166][476]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:174][477]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:182][478]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:190][479]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:199][480]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:207][481]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:215][482]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:224][483]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:232][484]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:240][485]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:249][486]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:257][487]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:265][488]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:274][489]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:282][490]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:290][491]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:299][492]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:307][493]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:315][494]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:324][495]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:332][496]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:340][497]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:349][498]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:357][499]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:365][500]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:374][501]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:382][502]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:390][503]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:399][504]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:407][505]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:415][506]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:424][507]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:432][508]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:440][509]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:449][510]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:457][511]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:465][512]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:474][513]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:482][514]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:491][515]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:499][516]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:507][517]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:515][518]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:524][519]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:535][520]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:547][521]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:557][522]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:565][523]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:573][524]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:582][525]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:590][526]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:598][527]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:607][528]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:615][529]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:623][530]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:632][531]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:640][532]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:648][533]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:657][534]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:665][535]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:673][536]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:682][537]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:690][538]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:698][539]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:707][540]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:715][541]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:723][542]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:731][543]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:740][544]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:748][545]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:756][546]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:765][547]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:773][548]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:781][549]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:790][550]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:798][551]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:808][552]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:817][553]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:826][554]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:836][555]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:845][556]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:854][557]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:863][558]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:873][559]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:882][560]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:891][561]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:900][562]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:909][563]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:919][564]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:928][565]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:937][566]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:945][567]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:953][568]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:962][569]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:970][570]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:978][571]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:987][572]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.21:995][573]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:003][574]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:012][575]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:020][576]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:028][577]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:037][578]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:045][579]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:053][580]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:062][581]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:070][582]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:078][583]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:087][584]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:095][585]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:103][586]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:112][587]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:121][588]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:130][589]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:139][590]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:148][591]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:157][592]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:166][593]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:174][594]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:184][595]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:192][596]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:201][597]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:210][598]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:219][599]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:228][600]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:237][601]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:246][602]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:255][603]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:264][604]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:273][605]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:282][606]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:291][607]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:299][608]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:307][609]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:315][610]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:324][611]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:332][612]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:341][613]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:349][614]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:357][615]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:366][616]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:374][617]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:382][618]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:391][619]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:399][620]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:407][621]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:416][622]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:424][623]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:432][624]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:441][625]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:449][626]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:457][627]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:466][628]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:474][629]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:482][630]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:491][631]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:499][632]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:507][633]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:516][634]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:524][635]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:532][636]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:541][637]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:549][638]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:557][639]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:566][640]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:574][641]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:582][642]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:591][643]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:599][644]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:607][645]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:616][646]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:624][647]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:632][648]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:641][649]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:649][650]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:657][651]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:666][652]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:674][653]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:682][654]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:691][655]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:699][656]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:707][657]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:716][658]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:724][659]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:732][660]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:741][661]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:749][662]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:757][663]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:765][664]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:774][665]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:782][666]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:790][667]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:799][668]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:807][669]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:815][670]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:824][671]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:832][672]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:840][673]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:849][674]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:857][675]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:865][676]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:874][677]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:882][678]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:890][679]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:899][680]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:907][681]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:915][682]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:924][683]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:932][684]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:940][685]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:949][686]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:957][687]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:965][688]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:974][689]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:982][690]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:990][691]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.22:999][692]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:007][693]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:015][694]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:024][695]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:032][696]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:040][697]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:049][698]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:057][699]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:065][700]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:074][701]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:082][702]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:091][703]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:099][704]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:107][705]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:115][706]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:124][707]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:132][708]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:140][709]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:149][710]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:157][711]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:165][712]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:174][713]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:182][714]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:190][715]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:199][716]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:207][717]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:215][718]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:224][719]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:232][720]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:241][721]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:249][722]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:257][723]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:266][724]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:274][725]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:282][726]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:291][727]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:299][728]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:307][729]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:316][730]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:324][731]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:332][732]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:341][733]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:349][734]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:357][735]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:366][736]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:374][737]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:382][738]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:391][739]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:399][740]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:407][741]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:416][742]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:424][743]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:432][744]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:441][745]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:449][746]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:457][747]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:466][748]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:474][749]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:482][750]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:491][751]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:499][752]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:507][753]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:516][754]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:524][755]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:532][756]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:541][757]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:549][758]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:557][759]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:566][760]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:574][761]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:582][762]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:591][763]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:599][764]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:607][765]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:616][766]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:624][767]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:632][768]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:641][769]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:649][770]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:657][771]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:666][772]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:674][773]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:682][774]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:690][775]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:699][776]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:707][777]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:716][778]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:724][779]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:732][780]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:741][781]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:749][782]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:757][783]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:766][784]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:774][785]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:782][786]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:790][787]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:799][788]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:807][789]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:816][790]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:824][791]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:832][792]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:840][793]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:849][794]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:857][795]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:866][796]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:874][797]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:882][798]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:891][799]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:899][800]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:907][801]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:916][802]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:924][803]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:932][804]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:941][805]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:949][806]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:957][807]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:966][808]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:974][809]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:982][810]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:991][811]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.23:999][812]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:007][813]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:016][814]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:024][815]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:032][816]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:041][817]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:049][818]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:057][819]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:065][820]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:074][821]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:082][822]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:090][823]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:099][824]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:107][825]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:115][826]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:124][827]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:132][828]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:140][829]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:149][830]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:157][831]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:165][832]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:174][833]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:182][834]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:190][835]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:199][836]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:207][837]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:216][838]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:224][839]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:232][840]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:241][841]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:249][842]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:257][843]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:266][844]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:274][845]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:282][846]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:290][847]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:299][848]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:307][849]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:316][850]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:324][851]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:332][852]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:340][853]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:349][854]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:357][855]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:365][856]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:374][857]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:382][858]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:390][859]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:399][860]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:407][861]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:415][862]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:424][863]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:432][864]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:440][865]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:449][866]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:457][867]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:465][868]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:474][869]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:482][870]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:490][871]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:499][872]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:507][873]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:515][874]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:524][875]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:532][876]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:540][877]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:549][878]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:557][879]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:565][880]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:574][881]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:582][882]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:590][883]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:599][884]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:607][885]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:615][886]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:624][887]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:632][888]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:640][889]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:649][890]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:657][891]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:665][892]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:674][893]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:682][894]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:690][895]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:699][896]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:707][897]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:716][898]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:724][899]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:732][900]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:741][901]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:749][902]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:757][903]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:766][904]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:774][905]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:782][906]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:791][907]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:799][908]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:807][909]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:816][910]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:824][911]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:833][912]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:841][913]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:849][914]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:857][915]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:866][916]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:874][917]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:883][918]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:891][919]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:899][920]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:907][921]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:916][922]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:923][923]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:932][924]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:941][925]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:949][926]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:957][927]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:966][928]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:974][929]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:982][930]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:991][931]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.24:999][932]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:007][933]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:016][934]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:024][935]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:032][936]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:041][937]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:049][938]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:057][939]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:066][940]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:074][941]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:082][942]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:091][943]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:099][944]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:108][945]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:116][946]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:124][947]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:132][948]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:141][949]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:149][950]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:157][951]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:166][952]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:174][953]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:182][954]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:191][955]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:199][956]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:207][957]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:216][958]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:224][959]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:232][960]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:241][961]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:249][962]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:258][963]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:266][964]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:274][965]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:282][966]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:291][967]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:299][968]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:307][969]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:316][970]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:324][971]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:332][972]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:341][973]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:349][974]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:357][975]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:366][976]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:374][977]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:382][978]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:391][979]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:399][980]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:407][981]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:416][982]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:424][983]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:432][984]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:441][985]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:449][986]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:457][987]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:466][988]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:474][989]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:482][990]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:491][991]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:499][992]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:507][993]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:516][994]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:524][995]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:532][996]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:541][997]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:549][998]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:557][999]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:566][  0]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:574][  1]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:582][  2]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:591][  3]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:599][  4]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:607][  5]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:616][  6]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:624][  7]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:632][  8]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:641][  9]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:649][ 10]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:657][ 11]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:665][ 12]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:674][ 13]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:682][ 14]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:690][ 15]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:699][ 16]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:707][ 17]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:715][ 18]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:724][ 19]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:732][ 20]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:741][ 21]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:749][ 22]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:757][ 23]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:765][ 24]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:774][ 25]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:782][ 26]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:790][ 27]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:799][ 28]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:814][ 29]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:825][ 30]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:834][ 31]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:842][ 32]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:851][ 33]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:859][ 34]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:867][ 35]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:876][ 36]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:884][ 37]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:892][ 38]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:901][ 39]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:909][ 40]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:917][ 41]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:926][ 42]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:934][ 43]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:942][ 44]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:951][ 45]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:959][ 46]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:967][ 47]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:976][ 48]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:984][ 49]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.25:992][ 50]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:001][ 51]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:009][ 52]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:017][ 53]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:026][ 54]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:034][ 55]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:042][ 56]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:051][ 57]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:059][ 58]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:067][ 59]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:076][ 60]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:084][ 61]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:092][ 62]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:100][ 63]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:109][ 64]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:117][ 65]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:126][ 66]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:134][ 67]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:142][ 68]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:151][ 69]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:159][ 70]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:167][ 71]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:175][ 72]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:184][ 73]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:192][ 74]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:200][ 75]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:209][ 76]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:217][ 77]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:225][ 78]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:234][ 79]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:242][ 80]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:250][ 81]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:259][ 82]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:267][ 83]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:275][ 84]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:284][ 85]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:292][ 86]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:300][ 87]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:309][ 88]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:317][ 89]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:325][ 90]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:334][ 91]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:342][ 92]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:350][ 93]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:359][ 94]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:367][ 95]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:375][ 96]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:384][ 97]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:392][ 98]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:400][ 99]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:409][100]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:417][101]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:425][102]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:434][103]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:442][104]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:450][105]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:459][106]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:467][107]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:475][108]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:484][109]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:492][110]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:500][111]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:509][112]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:517][113]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:525][114]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:534][115]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:542][116]LogTemp: Warning: Hitting Cone_2
+[2020.05.26-17.50.26:543][116]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.05.26-17.50.26:543][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.50.26:572][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.26-17.50.26:572][116]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel' has LevelScriptBlueprint '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape' with GeneratedClass '/Game/Levels/BuildingEscape.BuildingEscape_C' with ClassGeneratedBy '/Game/Levels/BuildingEscape.BuildingEscape:PersistentLevel.BuildingEscape'
+[2020.05.26-17.50.26:603][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.26-17.50.26:606][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.05.26-17.50.26:643][119]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.05.26-18.00.09:260][265]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.05.26-18.02.54:964][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.05.26-18.02.55:087][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.05.26-18.02.55:122][767]LogSlate: Window 'BuildingEscape - Unreal Editor' being destroyed
+[2020.05.26-18.02.55:287][768]Cmd: QUIT_EDITOR
+[2020.05.26-18.02.56:287][768]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.26-18.02.56:294][768]LogExit: Preparing to exit.
+[2020.05.26-18.02.57:172][768]LogExit: Editor shut down
+[2020.05.26-18.02.57:172][768]LogExit: Transaction tracking system shut down
+[2020.05.26-18.02.57:290][768]LogExit: Object subsystem successfully closed.
+[2020.05.26-18.02.57:314][768]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.26-18.02.57:316][768]LogD3D11RHI: Shutdown
+[2020.05.26-18.02.57:316][768]LogD3D11RHI: CleanupD3DDevice
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.05.26-18.02.57:317][768]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.05.26-18.02.57:318][768]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module BuildingEscape (646)
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (644)
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2020.05.26-18.02.57:336][768]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module OculusMR (608)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (606)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (604)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (602)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module PlacementMode (601)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module MaterialEditor (600)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (596)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (594)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (592)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (590)
+[2020.05.26-18.02.57:337][768]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (588)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module WebMMedia (586)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (584)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (582)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (578)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (576)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (574)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (572)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (570)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (568)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (566)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (564)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (562)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module MeshPaint (550)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module ViewportSnapping (548)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module ViewportInteraction (546)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module ClothPainter (544)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (543)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module LogVisualizer (540)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module IntroTutorials (538)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (537)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (534)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (532)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (530)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (528)
+[2020.05.26-18.02.57:338][768]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (527)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (524)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (522)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (520)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (518)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (516)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module InputBindingEditor (514)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module MergeActors (512)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (510)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module LocalizationService (509)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module HardwareTargeting (506)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (504)
+[2020.05.26-18.02.58:100][768]LogModuleManager: Shutting down and abandoning module UndoHistory (502)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module XmlParser (500)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module Blutility (498)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (496)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (495)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (492)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module SettingsEditor (490)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module ProjectLauncher (488)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module SessionFrontend (486)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module ProfilerClient (484)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module DeviceManager (482)
+[2020.05.26-18.02.58:101][768]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (481)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AutomationController (478)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AutomationWindow (476)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module Layers (474)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (472)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module DetailCustomizations (470)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module PackagesDialog (468)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (466)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module Persona (464)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (463)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AnimGraph (461)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module Kismet (458)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module GraphEditor (456)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module ClassViewer (454)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module Toolbox (452)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module DesktopPlatform (451)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.05.26-18.02.58:145][768]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.05.26-18.02.58:146][768]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (410)
+[2020.05.26-18.02.58:148][768]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module SteamVRController (404)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (402)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (400)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module OculusEditor (398)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module OculusInput (396)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (394)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module EditableMesh (392)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (390)
+[2020.05.26-18.02.58:390][768]LogModuleManager: Shutting down and abandoning module CableComponent (388)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AudioCapture (386)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (384)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AndroidPermission (382)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (380)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (378)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MediaCompositing (376)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module LinearTimecode (374)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module ImgMedia (372)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (370)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (368)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (366)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (332)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (310)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.05.26-18.02.58:391][768]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.05.26-18.02.58:492][768]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.05.26-18.02.58:592][768]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.05.26-18.02.58:592][768]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.05.26-18.02.58:593][768]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.05.26-18.02.58:593][768]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.05.26-18.02.58:593][768]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.05.26-18.02.58:593][768]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.05.26-18.02.58:593][768]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.05.26-18.02.58:594][768]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.05.26-18.02.58:596][768]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.05.26-18.02.58:612][768]LogDerivedDataCache: Shutdown
+[2020.05.26-18.02.58:612][768]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.05.26-18.02.58:612][768]LogXGEController: Cleaning working directory: C:/Users/Thomas/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.26-18.02.58:612][768]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.05.26-18.02.58:612][768]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.05.26-18.02.58:613][768]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.05.26-18.02.58:614][768]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.05.26-18.02.58:614][768]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.05.26-18.02.58:614][768]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.05.26-18.02.58:614][768]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.05.26-18.02.58:619][768]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.05.26-18.02.58:619][768]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.05.26-18.02.58:620][768]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.05.26-18.02.58:620][768]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.05.26-18.02.58:652][768]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.05.26-18.02.58:652][768]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.26-18.02.58:652][768]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6EDC25DC-4EEA-AED4-24DE-CAAEC7BC4054%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=43dec8a0446c5a51491eeea4d569bf4c%7C9b3b53f9a7b94bf18ec4210df90f8afe%7C19234404-9a2f-4a75-b3c3-e4e7933ad52b&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.05.26-18.02.58:673][768]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.05.26-18.02.58:674][768]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.05.26-18.02.58:675][768]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.26-18.02.58:681][768]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.26-18.02.58:682][768]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.26-18.02.58:699][768]LogExit: Exiting.
+[2020.05.26-18.02.58:710][768]Log file closed, 05/26/20 14:02:58
