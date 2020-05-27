@@ -38,6 +38,12 @@ void SetupInputComponent();
 //Return the first Actor within reach with a physics body
 FHitResult GetFirstPhysicsBodyInReach() const;
 
+//Return the line trace end
+FVector GetPlayerReach() const;
+
+//Return the players location in the world
+FVector GetPlayerWorldPos() const;
+
 DEBUG void CreateDebugLine(FVector StartPos, FVector EndPos);
 
 };
