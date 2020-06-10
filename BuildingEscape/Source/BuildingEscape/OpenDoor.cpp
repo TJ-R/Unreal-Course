@@ -1,6 +1,7 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 #include "OpenDoor.h"
+#include "Components/AudioComponent.h"
 #include "Components/PrimitiveComponent.h"
 #include "Engine/World.h"
 #include "GameFramework/Actor.h"
@@ -26,9 +27,16 @@ void UOpenDoor::BeginPlay()
 	CurrentYaw = InitialYaw;
 	OpenAngle += InitialYaw;
 
-	if(!PressurePlate)
+	CheckPressurePlate();
+	FindAudioComponent();
+}
+
+void UOpenDoor::FindAudioComponent()
+{
+	AudioComponent = GetOwner()->FindComponentByClass<UAudioComponent>();
+	if (!AudioComponent)
 	{
-		UE_LOG(LogTemp, Error, TEXT("%s has OpenDoor Component but no Pressure Plate set!"), *GetOwner()->GetName());
+		UE_LOG(LogTemp, Error, TEXT("No audio component found on %s."), *GetOwner()->GetName());
 	}
 }
 
@@ -59,6 +67,16 @@ void UOpenDoor::OpenDoor(float DeltaTime)
 
 	DoorRotation.Yaw = FMath::FInterpTo(CurrentYaw, OpenAngle, DeltaTime, DoorOpenSpeed);
  	GetOwner()->SetActorRotation(DoorRotation);
+
+	if (!AudioComponent) return;
+
+	//Open Door sound needs played since door is closed
+	if (DoorOpenSound)
+	{
+		AudioComponent->Play();
+		DoorOpenSound = false;	//Kill audio loop
+		DoorCloseSound = true;	//Set DoorClose to true indicating the closing sound needs played
+	}
 }
 
 void UOpenDoor::CloseDoor(float DeltaTime)
@@ -68,6 +86,16 @@ void UOpenDoor::CloseDoor(float DeltaTime)
 
 	DoorRotation.Yaw = FMath::FInterpTo(CurrentYaw, InitialYaw, DeltaTime, DoorCloseSpeed);
 	GetOwner()->SetActorRotation(DoorRotation);
+
+	if (!AudioComponent) return;
+
+	//Close Door sound needs played since door is open
+	if (DoorCloseSound)
+	{
+		AudioComponent->Play();
+		DoorOpenSound = true;	//Set DoorOpen to true indicating the opening sound needs played
+		DoorCloseSound = false;	//Kill audio loop
+	}
 }
 
 float UOpenDoor::TotalMassOfActors() const
@@ -86,4 +114,12 @@ float UOpenDoor::TotalMassOfActors() const
 	}
 
 	return TotalMass;
+}
+
+void UOpenDoor::CheckPressurePlate() const
+{
+	if (!PressurePlate)
+	{
+		UE_LOG(LogTemp, Error, TEXT("%s has OpenDoor Component but no Pressure Plate set!"), *GetOwner()->GetName());
+	}
 }
